@@ -1,5 +1,5 @@
 
-<img src="relative/path/in/repository/to/image.svg](https://github.com/energycenterlab/.github/blob/main/profile/logo%20EC-Lab.png" width="128"/>
+<img src="https://github.com/energycenterlab/.github/blob/main/profile/logo%20EC-Lab.png" width="128"/>
 
 The Energy Center Lab (EClab) is the Polytechnic of Turin's initiative that coordinates and promotes the scientific activities of the Center. The multidisciplinary research team includes competencies deriving from different departments of the University and is active on various energy-related research topics. 
 
