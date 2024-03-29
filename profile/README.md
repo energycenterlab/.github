@@ -1,3 +1,5 @@
+![alt text](files:logoEC-Lab.png)
+
 The Energy Center Lab (EClab) is the Polytechnic of Turin's initiative that coordinates and promotes the scientific activities of the Center. The multidisciplinary research team includes competencies deriving from different departments of the University and is active on various energy-related research topics. 
 
 EClab provides integrated hardware-software tools to simulate future scenarios for energy supply and its end-use, taking account of environmental constraints and socio-economic aspects. The increasing amount of (energy) data available in real-time is an integral part of the multi-layer approach carried out by the Center. 
